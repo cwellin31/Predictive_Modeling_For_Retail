@@ -6,3 +6,4 @@ A poster displaying my team's work over the Fall 2026 semester with a leading in
 - Built multiple predictive models, exploring linear regression, random forest and decision tree models
 - Worked with company stakeholders weekly to tailor our team's analysis to their needs
 - Created a final code repository with my team that the company can use to scale to other products
+- Expanded personal skillset coding in R
