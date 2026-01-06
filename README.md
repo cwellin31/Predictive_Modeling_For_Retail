@@ -1,5 +1,5 @@
 # Predictive_Modeling_For_Retail
-A poster displaying my team's work over the Fall 2026 semester with a leading retail supply company. 
+A poster displaying my team's work over the Fall 2026 semester with a leading industrial retail supply company. 
 
 # My Contributions-
 - Performed analysis on the Desk product, creating a final model with 90% training accuracy and 75% testing accuracy when predicting quantity sold
